@@ -1,7 +1,7 @@
 # MLs: An iOS AR App
 
 ## Overview
-"MLs" (short for Motion Lines) is an innovative iOS AR application developed to address cybersickness in VR environments. Utilizing Apple's ARKit, MLs offers a seamless augmented reality experience where digital content overlays the real world, enhancing the user’s sensory perception.
+"MLs" (short for Motion Lines) is an iOS AR app designed to assist in evaluating and optimizing the spatial arrangement of motion lines, which aim to mitigate cybersickness in VR environments.  Utilizing Apple's ARKit, MLs seamlessly overlays digital content onto the real world, enhancing the user's sensory perception and allowing for a comprehensive assessment of various motion line configurations in an augmented reality setting. 
 <p align="center">
 <img src="Images/s3.png" /><br>
 <em>The Three States of the MLs Control Panel on iPad Pro 12.9-inch</em>
