@@ -29,7 +29,7 @@
 
 
 ## How to Use
-1.  Open MLs β.xcodeproj on Xcode13 or later, then connect your iPhone or iPad to build it.
+1.  Open ```MLs β.xcodeproj``` on Xcode13 or later, then connect your iPhone or iPad to build it.
 2.	Open the App on your iOS device.
 3.	Use the control panel to adjust the motion lines’ appearance.
 4.	Double-tap to toggle the visibility of the control panel.
