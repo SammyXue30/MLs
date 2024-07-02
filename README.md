@@ -36,8 +36,6 @@
 
 
 ## Research Basis
-The App is part of a research study focused on reducing VR sickness by leveraging the concept of motion lines and augmented reality.
-
 The App is part of a research study aimed at reducing VR sickness by using motion lines.  The study introduces the Line Effect, a novel peripheral visual effect to mitigate cybersickness without disrupting the natural VR experience.  A preliminary experiment conducted with the MLs App evaluated various motion line arrangements, leading to the identification of an optimal configuration.  This configuration was then tested in VR, demonstrating significant reductions in cybersickness and improved user experience.
 
 [Research Report Download](https://drive.google.com/file/d/1yxPIE7ruP1nEx6b3l1g3n-zT26zpN-XS/view?usp=share_link) 
